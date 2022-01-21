@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="100" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+      <class name="qaclickacademy.MavenJava.Lecture_154_155_TwoTest">
+        <test-method status="PASS" signature="two()[pri:0, instance:qaclickacademy.MavenJava.Lecture_154_155_TwoTest@1063c0a]" name="two" duration-ms="9" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method status="PASS" signature="twoplus()[pri:0, instance:qaclickacademy.MavenJava.Lecture_154_155_TwoTest@1063c0a]" name="twoplus" duration-ms="1" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoplus -->
+      </class> <!-- qaclickacademy.MavenJava.Lecture_154_155_TwoTest -->
+      <class name="qaclickacademy.MavenJava.Lecture_154_155_ThreeTest">
+        <test-method status="PASS" signature="three()[pri:0, instance:qaclickacademy.MavenJava.Lecture_154_155_ThreeTest@144fc21]" name="three" duration-ms="0" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method status="PASS" signature="twoplus()[pri:0, instance:qaclickacademy.MavenJava.Lecture_154_155_ThreeTest@144fc21]" name="twoplus" duration-ms="1" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoplus -->
+      </class> <!-- qaclickacademy.MavenJava.Lecture_154_155_ThreeTest -->
+      <class name="qaclickacademy.MavenJava.Lecture_154_155_Test">
+        <test-method status="PASS" signature="one()[pri:0, instance:qaclickacademy.MavenJava.Lecture_154_155_Test@1faf8f2]" name="one" duration-ms="4" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method status="PASS" signature="oneplus()[pri:0, instance:qaclickacademy.MavenJava.Lecture_154_155_Test@1faf8f2]" name="oneplus" duration-ms="1" started-at="2021-10-18T21:19:40 IST" finished-at="2021-10-18T21:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneplus -->
+      </class> <!-- qaclickacademy.MavenJava.Lecture_154_155_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

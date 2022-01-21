@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: qaclickacademy.MavenJava.Lecture_154_One_Test
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in qaclickacademy.MavenJava.Lecture_154_One_Test
